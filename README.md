@@ -7,4 +7,5 @@ Frame animation from Philip Burgess excellent guide:
 Rewritten for the Pi.
 
 Q. "So, what exactly am i getting here?"
+
 A. This: https://vine.co/v/O03LBUuZ1BO
