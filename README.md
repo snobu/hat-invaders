@@ -1,17 +1,28 @@
 # hat-invaders
 
 Display bitmap animation on Pimoroni's fantastic Unicorn Hat.
-Frame animation from Philip Burgess excellent guide:
+Frame animation from Philip Burgess:
 	https://learn.adafruit.com/trinket-slash-gemma-space-invader-pendant/animation
 
-Rewritten for the Pi2 Model B.
+Written for the Pi2 Model B (should work on any Pi - i suppose - untested).
 
-##### Q. "So, what exactly am i getting here?"
-##### A. This: https://vine.co/v/O03LBUuZ1BO
+#### Q. "So, what exactly am i getting here?"
+#### A. This: https://vine.co/v/OEFdgmg1TvX
 
+
+## I DON'T LIKE YOUR COLORS
+Very well then, edit invaders.c:
+
+   switch(mask) {
+                  case 128 : setPixelColorRGB(getPixelPosition(0,y), 166, 166, 42); break; /* yellow */
+                  case 64  : setPixelColorRGB(getPixelPosition(1,y),  52, 128, 42); break; /* green */
+                  case 32  : setPixelColorRGB(getPixelPosition(2,y),  52, 128, 42); break;
+                ...
+
+While in here look for frame duration, change my 6000 to something bigger if you want to slow it down.
 
 ## INSTALLATION
-    git-core http://github.com/snobu/hat-invaders
+    git-core https://github.com/snobu/hat-invaders
     cd hat-invaders
     make
     
