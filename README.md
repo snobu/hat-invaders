@@ -11,7 +11,7 @@ Written for the Pi2 Model B (should work on any Pi - i suppose - untested).
 [![invaders](http://i.imgur.com/Oa7rcOE.png)](https://vine.co/v/OEFdgmg1TvX)
 
 
-### YOUR COLORS ARE BAD AND YOU SHOULD FEEL BAD
+#### <i>"YOUR COLORS ARE BAD AND YOU SHOULD FEEL BAD"</i>
 Very well then, edit invaders.c:
 
 ```
