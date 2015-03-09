@@ -27,7 +27,7 @@ While in here look for frame duration, change my 6000 to something bigger if you
 
 ### INSTALLATION
 ```bash    
-git-core https://github.com/snobu/hat-invaders
+git clone https://github.com/snobu/hat-invaders
 cd hat-invaders
 make
 ```
