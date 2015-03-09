@@ -1,8 +1,10 @@
 # hat-invaders
 
 Display bitmap animation on Pimoroni's fantastic Unicorn Hat.
-Frame animation from Philip Burgess:
-	https://learn.adafruit.com/trinket-slash-gemma-space-invader-pendant/animation
+http://shop.pimoroni.com/products/unicorn-hat
+
+Frame animation from Phillip Burgess / Adafruit:
+https://learn.adafruit.com/trinket-slash-gemma-space-invader-pendant/animation
 
 Written for the Pi2 Model B (should work on any Pi - i suppose - untested).
 
