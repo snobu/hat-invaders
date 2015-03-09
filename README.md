@@ -25,9 +25,13 @@ switch(mask) {
 While in here look for frame duration, change my 6000 to something bigger if you want to slow it down.
 
 ### INSTALLATION
-    git-core https://github.com/snobu/hat-invaders
-    cd hat-invaders
-    make
-    
+```bash    
+git-core https://github.com/snobu/hat-invaders
+cd hat-invaders
+make
+```
+
 ### RUN
-    ./invaders
+```bash
+./invaders
+```
