@@ -36,3 +36,6 @@ make
 ```bash
 ./invaders
 ```
+
+### I CAN'T EVEN
+You can. CTRL + C to stop.
