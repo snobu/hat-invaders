@@ -8,7 +8,7 @@ Written for the Pi2 Model B (should work on any Pi - i suppose - untested).
 
 #### Q. "So, what exactly am i getting here?"
 #### A. This: https://vine.co/v/OEFdgmg1TvX
-![invaders](http://i.imgur.com/Oa7rcOE.png)
+[![invaders](http://i.imgur.com/Oa7rcOE.png)](https://vine.co/v/OEFdgmg1TvX)
 
 
 ### YOUR COLORS ARE BAD AND YOU SHOULD FEEL BAD
