@@ -17,10 +17,10 @@ Very well then, edit invaders.c:
 
 ```c
 switch(mask) {
-                case 128 : setPixelColorRGB(getPixelPosition(0,y), 166, 166, 42); break; /* yellow */
-                case 64  : setPixelColorRGB(getPixelPosition(1,y),  52, 128, 42); break; /* green */
-                case 32  : setPixelColorRGB(getPixelPosition(2,y),  52, 128, 42); break;
-                ...
+        case 128 : setPixelColorRGB(getPixelPosition(0,y), 166, 166, 42); break; /* yellow */
+        case 64  : setPixelColorRGB(getPixelPosition(1,y),  52, 128, 42); break; /* green */
+        case 32  : setPixelColorRGB(getPixelPosition(2,y),  52, 128, 42); break;
+        ...
 ```
 
 While in here look for frame duration, change my 6000 to something bigger if you want to slow it down.
