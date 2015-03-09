@@ -14,7 +14,7 @@ Written for the Pi2 Model B (should work on any Pi - i suppose - untested).
 #### <i>"YOUR COLORS ARE BAD AND YOU SHOULD FEEL BAD"</i>
 Very well then, edit invaders.c:
 
-```
+```c
 switch(mask) {
                 case 128 : setPixelColorRGB(getPixelPosition(0,y), 166, 166, 42); break; /* yellow */
                 case 64  : setPixelColorRGB(getPixelPosition(1,y),  52, 128, 42); break; /* green */
