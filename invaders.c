@@ -118,7 +118,10 @@ int main() {
 
           while (1) {
               i = 0;
-              /* loop for each byte in anim[] (anim.h) */
+              /* Loop for each byte in anim[] (anim.h)
+               * I feel like David Cutler on UNIX I/O.
+               * If you get this reference you are AWESOME.
+               */
               while(i<sizeof(anim)) {
 
                   /* clear screen and LED matrix */
