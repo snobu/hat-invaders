@@ -1,7 +1,6 @@
 # hat-invaders
 
-### Display bitmap animation on Pimoroni's fantastic Unicorn Hat.
-http://shop.pimoroni.com/products/unicorn-hat
+### Display bitmap animation on Pimoroni's fantastic [Unicorn Hat](http://shop.pimoroni.com/products/unicorn-hat).
 
 Frame animation from Phillip Burgess / Adafruit:<br />
 https://learn.adafruit.com/trinket-slash-gemma-space-invader-pendant/animation
